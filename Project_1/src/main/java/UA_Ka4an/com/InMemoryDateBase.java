@@ -7,6 +7,17 @@ import java.util.Map;
 public class InMemoryDateBase {
     User user = new User();
     Map<Integer, User> userDateBase = new HashMap<Integer, User>();
+    
+    /*
+    
+    Здесь влепи методы, что бы я мог например взять список всех участников
+    Удалить кого-то по имени,
+    Добавить кого-то
+    Взять по имени хотя бы
+    Изменить его информацию
+    
+    
+    */
 }
 
 
